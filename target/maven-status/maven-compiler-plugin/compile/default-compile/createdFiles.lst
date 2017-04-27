@@ -1,0 +1,5 @@
+com/sheppard/SpringRestProjectApplication.class
+com/sheppard/entity/Notification.class
+com/sheppard/repository/NotificationRepository.class
+com/sheppard/entity/request/AddNotificationRequest.class
+com/sheppard/controller/NotificationController.class
